@@ -1,0 +1,97 @@
+[
+  {
+    "name": "Al Anbar",
+    "country": "Iraq",
+    "slug": "al-anbar"
+  },
+  {
+    "name": "Al Muthanna Governorate",
+    "country": "Iraq",
+    "slug": "al-muthanna"
+  },
+  {
+    "name": "Al Qadisiyah / Al Diwaniyah",
+    "country": "Iraq",
+    "slug": "al-qadisiyad"
+  },
+  {
+    "name": "An Najaf",
+    "country": "Iraq",
+    "slug": "an-najaf"
+  },
+  {
+    "name": "Erbil",
+    "country": "Iraq",
+    "slug": "erbil"
+  },
+  {
+    "name": "Baghdad",
+    "country": "Iraq",
+    "slug": "baghdad"
+  },
+  {
+    "name": "Basra",
+    "country": "Iraq",
+    "slug": "basra"
+  },
+  {
+    "name": "Babil",
+    "country": "Iraq",
+    "slug": "babil"
+  },
+  {
+    "name": "Dhi Qar",
+    "country": "Iraq",
+    "slug": "dhi-qar"
+  },
+  {
+    "name": "Diyala",
+    "country": "Iraq",
+    "slug": "diyala"
+  },
+  {
+    "name": "Duhok",
+    "country": "Iraq",
+    "slug": "duhok"
+  },
+  {
+    "name": "Halabja Governorate",
+    "country": "Iraq",
+    "slug": "halabja"
+  },
+  {
+    "name": "Karbala",
+    "country": "Iraq",
+    "slug": "karbala"
+  },
+  {
+    "name": "Kirkuk",
+    "country": "Iraq",
+    "slug": "kirkuk"
+  },
+  {
+    "name": "Maysan",
+    "country": "Iraq",
+    "slug": "maysan"
+  },
+  {
+    "name": "Nineveh",
+    "country": "Iraq",
+    "slug": "nineveh"
+  },
+  {
+    "name": "Salah ad Din",
+    "country": "Iraq",
+    "slug": "salah-ad-din"
+  },
+  {
+    "name": "Sulaymaniyah",
+    "country": "Iraq",
+    "slug": "sulaymaniyah"
+  },
+  {
+    "name": "Wasit",
+    "country": "Iraq",
+    "slug": "wasit"
+  }
+]

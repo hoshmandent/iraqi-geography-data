@@ -1,0 +1,11 @@
+{
+  "name": "Ramadi",
+  "country": "Iraq",
+  "region": "Al Anbar",
+  "subregion": "Ramadi District",
+  "slug": "ramadi",
+  "latitude": "33.42056",
+  "longitude": "43.30778",
+  "population": 223500,
+  "timezone": "Asia/Baghdad"
+}

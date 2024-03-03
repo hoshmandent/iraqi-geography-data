@@ -1,0 +1,734 @@
+[
+  {
+    "name": "Abu Al-Khaseeb District",
+    "country": "Iraq",
+    "region": "Basra",
+    "slug": "abu-al-khaseeb-district"
+  },
+  {
+    "name": "Abu Ghraib District",
+    "country": "Iraq",
+    "region": "Baghdad",
+    "slug": "abu-ghraib-district"
+  },
+  {
+    "name": "Amedi",
+    "country": "Iraq",
+    "region": "Duhok",
+    "slug": "amedi"
+  },
+  {
+    "name": "Afaq District",
+    "country": "Iraq",
+    "region": "Al Qadisiyah / Al Diwaniyah",
+    "slug": "afaq-district"
+  },
+  {
+    "name": "Ain Al-Tamur District",
+    "country": "Iraq",
+    "region": "Karbala",
+    "slug": "ain-al-tamur-district"
+  },
+  {
+    "name": "Akre District",
+    "country": "Iraq",
+    "region": "Nineveh",
+    "slug": "akre-district"
+  },
+  {
+    "name": "Al Kahla District",
+    "country": "Iraq",
+    "region": "Maysan",
+    "slug": "al-kahla-district"
+  },
+  {
+    "name": "Al Rusafa",
+    "country": "Iraq",
+    "region": "Baghdad",
+    "slug": "al-rusafa"
+  },
+  {
+    "name": "Al Tarmia District",
+    "country": "Iraq",
+    "region": "Baghdad",
+    "slug": "al-tarmia-district"
+  },
+  {
+    "name": "Al-Ba'aj District",
+    "country": "Iraq",
+    "region": "Nineveh",
+    "slug": "al-baaj-district"
+  },
+  {
+    "name": "Al-Chibayish District",
+    "country": "Iraq",
+    "region": "Dhi Qar",
+    "slug": "al-chibayish-district"
+  },
+  {
+    "name": "Al-Daur District",
+    "country": "Iraq",
+    "region": "Salah ad Din",
+    "slug": "al-daur-district"
+  },
+  {
+    "name": "Al-Faris",
+    "country": "Iraq",
+    "region": "Salah ad Din",
+    "slug": "al-faris"
+  },
+  {
+    "name": "Al-Faw District",
+    "country": "Iraq",
+    "region": "Basra",
+    "slug": "al-faw-district"
+  },
+  {
+    "name": "Al-Hai District",
+    "country": "Iraq",
+    "region": "Wasit",
+    "slug": "al-hai-district"
+  },
+  {
+    "name": "Al-Hamdaniya District",
+    "country": "Iraq",
+    "region": "Nineveh",
+    "slug": "al-hamdaniya-district"
+  },
+  {
+    "name": "Al-Hawija District",
+    "country": "Iraq",
+    "region": "Kirkuk",
+    "slug": "al-hawija-district"
+  },
+  {
+    "name": "Al-Hilla District",
+    "country": "Iraq",
+    "region": "Babil",
+    "slug": "al-hilla-district"
+  },
+  {
+    "name": "Al-Hindiya District",
+    "country": "Iraq",
+    "region": "Karbala",
+    "slug": "al-hindiya-district"
+  },
+  {
+    "name": "Al-Ka'im District",
+    "country": "Iraq",
+    "region": "Al Anbar",
+    "slug": "al-kaim-district"
+  },
+  {
+    "name": "Al-Khalis District",
+    "country": "Iraq",
+    "region": "Diyala",
+    "slug": "al-khalis-district"
+  },
+  {
+    "name": "Al-Khidir District",
+    "country": "Iraq",
+    "region": "Al Muthanna Governorate",
+    "slug": "al-khidir-district"
+  },
+  {
+    "name": "Al Kadhimiya",
+    "country": "Iraq",
+    "region": "Baghdad",
+    "slug": "al-kazimiyyah"
+  },
+  {
+    "name": "Al-Mada'in District",
+    "country": "Iraq",
+    "region": "Baghdad",
+    "slug": "al-madain-district"
+  },
+  {
+    "name": "Al-Mahawil District",
+    "country": "Iraq",
+    "region": "Babil",
+    "slug": "al-mahawil-district"
+  },
+  {
+    "name": "Al-Maimouna District",
+    "country": "Iraq",
+    "region": "Maysan",
+    "slug": "al-maimouna-district"
+  },
+  {
+    "name": "Al-Manathera District",
+    "country": "Iraq",
+    "region": "An Najaf",
+    "slug": "al-manathera-district"
+  },
+  {
+    "name": "Al-Mejar Al-Kabi District",
+    "country": "Iraq",
+    "region": "Maysan",
+    "slug": "al-mejar-al-kabi-district"
+  },
+  {
+    "name": "Al-Midaina District",
+    "country": "Iraq",
+    "region": "Basra",
+    "slug": "al-midaina-district"
+  },
+  {
+    "name": "Al-Muqdadiya District",
+    "country": "Iraq",
+    "region": "Diyala",
+    "slug": "al-muqdadiya-district"
+  },
+  {
+    "name": "Al-Musayab District",
+    "country": "Iraq",
+    "region": "Babil",
+    "slug": "al-musayab-district"
+  },
+  {
+    "name": "Al-Na'maniya District",
+    "country": "Iraq",
+    "region": "Wasit",
+    "slug": "al-namaniya-district"
+  },
+  {
+    "name": "Al-Qurna District",
+    "country": "Iraq",
+    "region": "Basra",
+    "slug": "al-qurna-district"
+  },
+  {
+    "name": "Al-Rifa'i District",
+    "country": "Iraq",
+    "region": "Dhi Qar",
+    "slug": "al-rifai-district"
+  },
+  {
+    "name": "Al-Rumaitha District",
+    "country": "Iraq",
+    "region": "Al Muthanna Governorate",
+    "slug": "al-rumaitha-district"
+  },
+  {
+    "name": "Al-Rutba District",
+    "country": "Iraq",
+    "region": "Al Anbar",
+    "slug": "al-rutba-district"
+  },
+  {
+    "name": "Al-Salman District",
+    "country": "Iraq",
+    "region": "Al Muthanna Governorate",
+    "slug": "al-salman-district"
+  },
+  {
+    "name": "Al-Samawa District",
+    "country": "Iraq",
+    "region": "Al Muthanna Governorate",
+    "slug": "al-samawa-district"
+  },
+  {
+    "name": "Al-Shatra District",
+    "country": "Iraq",
+    "region": "Dhi Qar",
+    "slug": "al-shatra-district"
+  },
+  {
+    "name": "Al-Shirqat District",
+    "country": "Iraq",
+    "region": "Salah ad Din",
+    "slug": "al-shirqat-district"
+  },
+  {
+    "name": "Al-Suwaira District",
+    "country": "Iraq",
+    "region": "Wasit",
+    "slug": "al-suwaira-district"
+  },
+  {
+    "name": "Al-Thethar District",
+    "country": "Iraq",
+    "region": "Salah ad Din",
+    "slug": "al-thethar-district"
+  },
+  {
+    "name": "Al-Zubair District",
+    "country": "Iraq",
+    "region": "Basra",
+    "slug": "al-zubair-district"
+  },
+  {
+    "name": "Ali Al-Gharbi District",
+    "country": "Iraq",
+    "region": "Maysan",
+    "slug": "ali-al-gharbi-district"
+  },
+  {
+    "name": "Amara District",
+    "country": "Iraq",
+    "region": "Maysan",
+    "slug": "amara-district"
+  },
+  {
+    "name": "Anah District",
+    "country": "Iraq",
+    "region": "Al Anbar",
+    "slug": "anah-district"
+  },
+  {
+    "name": "Erbil",
+    "country": "Iraq",
+    "region": "Erbil",
+    "slug": "erbil"
+  },
+  {
+    "name": "Ba'quba District",
+    "country": "Iraq",
+    "region": "Diyala",
+    "slug": "baquba-district"
+  },
+  {
+    "name": "Badra District",
+    "country": "Iraq",
+    "region": "Wasit",
+    "slug": "badra-district"
+  },
+  {
+    "name": "Baghdad",
+    "country": "Iraq",
+    "region": "Baghdad",
+    "slug": "baghdad"
+  },
+  {
+    "name": "Baiji District",
+    "country": "Iraq",
+    "region": "Salah ad Din",
+    "slug": "baiji-district"
+  },
+  {
+    "name": "Balad District",
+    "country": "Iraq",
+    "region": "Salah ad Din",
+    "slug": "balad-district"
+  },
+  {
+    "name": "Basrah District",
+    "country": "Iraq",
+    "region": "Basra",
+    "slug": "basrah-district"
+  },
+  {
+    "name": "Chamchamal District",
+    "country": "Iraq",
+    "region": "Sulaymaniyah",
+    "slug": "chamchamal-district"
+  },
+  {
+    "name": "Choman District",
+    "country": "Iraq",
+    "region": "Erbil",
+    "slug": "choman-district"
+  },
+  {
+    "name": "Dabes",
+    "country": "Iraq",
+    "region": "Kirkuk",
+    "slug": "dabes"
+  },
+  {
+    "name": "Daquq District",
+    "country": "Iraq",
+    "region": "Kirkuk",
+    "slug": "daquq-district"
+  },
+  {
+    "name": "Darbandikhan District",
+    "country": "Iraq",
+    "region": "Sulaymaniyah",
+    "slug": "darbandikhan-district"
+  },
+  {
+    "name": "Duhok District",
+    "country": "Iraq",
+    "region": "Duhok",
+    "slug": "duhok-district"
+  },
+  {
+    "name": "Dokan District",
+    "country": "Iraq",
+    "region": "Sulaymaniyah",
+    "slug": "dokan-district"
+  },
+  {
+    "name": "Falluja District",
+    "country": "Iraq",
+    "region": "Al Anbar",
+    "slug": "falluja-district"
+  },
+  {
+    "name": "Haditha District",
+    "country": "Iraq",
+    "region": "Al Anbar",
+    "slug": "haditha-district"
+  },
+  {
+    "name": "Hamza District",
+    "country": "Iraq",
+    "region": "Al Qadisiyah / Al Diwaniyah",
+    "slug": "hamza-district"
+  },
+  {
+    "name": "Hashimiya District",
+    "country": "Iraq",
+    "region": "Babil",
+    "slug": "hashimiya-district"
+  },
+  {
+    "name": "Hatra District",
+    "country": "Iraq",
+    "region": "Nineveh",
+    "slug": "hatra-district"
+  },
+  {
+    "name": "Hit District",
+    "country": "Iraq",
+    "region": "Al Anbar",
+    "slug": "hit-district"
+  },
+  {
+    "name": "Kalar District",
+    "country": "Iraq",
+    "region": "Sulaymaniyah",
+    "slug": "kalar-district"
+  },
+  {
+    "name": "Karkh",
+    "country": "Iraq",
+    "region": "Baghdad",
+    "slug": "karkh"
+  },
+  {
+    "name": "Kerbala District",
+    "country": "Iraq",
+    "region": "Karbala",
+    "slug": "kerbala-district"
+  },
+  {
+    "name": "Khanaqin District",
+    "country": "Iraq",
+    "region": "Diyala",
+    "slug": "khanaqin-district"
+  },
+  {
+    "name": "Kirkuk District",
+    "country": "Iraq",
+    "region": "Kirkuk",
+    "slug": "kirkuk-district"
+  },
+  {
+    "name": "Koya District",
+    "country": "Iraq",
+    "region": "Erbil",
+    "slug": "koya-district"
+  },
+  {
+    "name": "Kufa",
+    "country": "Iraq",
+    "region": "An Najaf",
+    "slug": "kufa"
+  },
+  {
+    "name": "Kut District",
+    "country": "Iraq",
+    "region": "Wasit",
+    "slug": "kut-district"
+  },
+  {
+    "name": "Mahmudiya District",
+    "country": "Iraq",
+    "region": "Baghdad",
+    "slug": "mahmudiya-district"
+  },
+  {
+    "name": "Makhmur District",
+    "country": "Iraq",
+    "region": "Erbil",
+    "slug": "makhmur-district"
+  },
+  {
+    "name": "Mawat District",
+    "country": "Iraq",
+    "region": "Sulaymaniyah",
+    "slug": "mawat-district"
+  },
+  {
+    "name": "Mergasur District",
+    "country": "Iraq",
+    "region": "Erbil",
+    "slug": "mergasur-district"
+  },
+  {
+    "name": "Mosul",
+    "country": "Iraq",
+    "region": "Nineveh",
+    "slug": "mosul"
+  },
+  {
+    "name": "Najaf District",
+    "country": "Iraq",
+    "region": "An Najaf",
+    "slug": "najaf-district"
+  },
+  {
+    "name": "Nassriya District",
+    "country": "Iraq",
+    "region": "Dhi Qar",
+    "slug": "nassriya-district"
+  },
+  {
+    "name": "Penjwin District",
+    "country": "Iraq",
+    "region": "Sulaymaniyah",
+    "slug": "penjwin-district"
+  },
+  {
+    "name": "Pshdar District",
+    "country": "Iraq",
+    "region": "Sulaymaniyah",
+    "slug": "pshdar-district"
+  },
+  {
+    "name": "Al-Azezia District",
+    "country": "Iraq",
+    "region": "Wasit",
+    "slug": "al-azezia-district"
+  },
+  {
+    "name": "Al-Shamiya District",
+    "country": "Iraq",
+    "region": "Al Qadisiyah / Al Diwaniyah",
+    "slug": "al-shamiya-district"
+  },
+  {
+    "name": "Balad Ruz District",
+    "country": "Iraq",
+    "region": "Diyala",
+    "slug": "balad-ruz-district"
+  },
+  {
+    "name": "Diwaniya District",
+    "country": "Iraq",
+    "region": "Al Qadisiyah / Al Diwaniyah",
+    "slug": "diwaniya-district"
+  },
+  {
+    "name": "Abu Ghurayb District",
+    "country": "Iraq",
+    "region": "Baghdad",
+    "slug": "abu-ghurayb-district"
+  },
+  {
+    "name": "Hawler Center District",
+    "country": "Iraq",
+    "region": "Erbil",
+    "slug": "hawler-center-district"
+  },
+  {
+    "name": "Xabat District",
+    "country": "Iraq",
+    "region": "Erbil",
+    "slug": "xabat-district"
+  },
+  {
+    "name": "Rawandz District",
+    "country": "Iraq",
+    "region": "Erbil",
+    "slug": "rawandz-district"
+  },
+  {
+    "name": "Soran District",
+    "country": "Iraq",
+    "region": "Erbil",
+    "slug": "soran-district"
+  },
+  {
+    "name": "Shaqlawa District",
+    "country": "Iraq",
+    "region": "Erbil",
+    "slug": "shaqlawa-district"
+  },
+  {
+    "name": "Maxmwr District",
+    "country": "Iraq",
+    "region": "Erbil",
+    "slug": "maxmwr-district"
+  },
+  {
+    "name": "Kifri District",
+    "country": "Iraq",
+    "region": "Diyala",
+    "slug": "kifri-district"
+  },
+  {
+    "name": "Qalat Salih",
+    "country": "Iraq",
+    "region": "Maysan",
+    "slug": "qalat-salih"
+  },
+  {
+    "name": "Sayyid Sadiq",
+    "country": "Iraq",
+    "region": "Erbil",
+    "slug": "sayyid-sadiq"
+  },
+  {
+    "name": "Samarra District",
+    "country": "Iraq",
+    "region": "Salah ad Din",
+    "slug": "samarra-district"
+  },
+  {
+    "name": "Adhamiyah District",
+    "country": "Iraq",
+    "region": "Baghdad",
+    "slug": "adhamiyah-district"
+  },
+  {
+    "name": "Sulaymaniyah",
+    "country": "Iraq",
+    "region": "Sulaymaniyah",
+    "slug": "sulaymaniyah"
+  },
+  {
+    "name": "Halabja",
+    "country": "Iraq",
+    "region": "Halabja Governorate",
+    "slug": "halabja"
+  },
+  {
+    "name": "Sirwan District",
+    "country": "Iraq",
+    "region": "Halabja Governorate",
+    "slug": "sirwan-district"
+  },
+  {
+    "name": "Khurmal District",
+    "country": "Iraq",
+    "region": "Halabja Governorate",
+    "slug": "khurmal-district"
+  },
+  {
+    "name": "Byara District",
+    "country": "Iraq",
+    "region": "Halabja Governorate",
+    "slug": "byara-district"
+  },
+  {
+    "name": "Qaradagh District",
+    "country": "Iraq",
+    "region": "Sulaymaniyah",
+    "slug": "qaradagh-district"
+  },
+  {
+    "name": "Sharazoor District",
+    "country": "Iraq",
+    "region": "Sulaymaniyah",
+    "slug": "sharazoor-district"
+  },
+  {
+    "name": "Ramadi District",
+    "country": "Iraq",
+    "region": "Al Anbar",
+    "slug": "ramadi-district"
+  },
+  {
+    "name": "Rania District",
+    "country": "Iraq",
+    "region": "Sulaymaniyah",
+    "slug": "rania-district"
+  },
+  {
+    "name": "Rawah District",
+    "country": "Iraq",
+    "region": "Al Anbar",
+    "slug": "rawah-district"
+  },
+  {
+    "name": "Sadr",
+    "country": "Iraq",
+    "region": "Baghdad",
+    "slug": "sadr"
+  },
+  {
+    "name": "Semel District",
+    "country": "Iraq",
+    "region": "Duhok",
+    "slug": "semel-district"
+  },
+  {
+    "name": "Sharbazher District",
+    "country": "Iraq",
+    "region": "Sulaymaniyah",
+    "slug": "sharbazher-district"
+  },
+  {
+    "name": "Shekhan District",
+    "country": "Iraq",
+    "region": "Nineveh",
+    "slug": "shekhan-district"
+  },
+  {
+    "name": "Sinjar District",
+    "country": "Iraq",
+    "region": "Nineveh",
+    "slug": "sinjar-district"
+  },
+  {
+    "name": "Suq al-Shuyukh District",
+    "country": "Iraq",
+    "region": "Dhi Qar",
+    "slug": "suq-al-shuyukh-district"
+  },
+  {
+    "name": "Taji District",
+    "country": "Iraq",
+    "region": "Baghdad",
+    "slug": "taji-district"
+  },
+  {
+    "name": "Tel Afar District",
+    "country": "Iraq",
+    "region": "Nineveh",
+    "slug": "tel-afar-district"
+  },
+  {
+    "name": "Tel Keppe District",
+    "country": "Iraq",
+    "region": "Nineveh",
+    "slug": "tel-keppe-district"
+  },
+  {
+    "name": "Thawra",
+    "country": "Iraq",
+    "region": "Baghdad",
+    "slug": "thawra"
+  },
+  {
+    "name": "Tikrit District",
+    "country": "Iraq",
+    "region": "Salah ad Din",
+    "slug": "tikrit-district"
+  },
+  {
+    "name": "Tooz District",
+    "country": "Iraq",
+    "region": "Salah ad Din",
+    "slug": "tooz-district"
+  },
+  {
+    "name": "Zakho District",
+    "country": "Iraq",
+    "region": "Duhok",
+    "slug": "zakho-district"
+  }
+]
